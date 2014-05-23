@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<compiz_session id="10decfeafec5a3ab6913974118015722800000016670029">
+  <window id="10decfeafec5a3ab69139741238724775500000016670034" title="jyoti@jyoti-Inspiron-N5010: ~/pyparser" class="Gnome-terminal" name="gnome-terminal" role="gnome-terminal-window-2451-1355297635-1397412387" command="gnome-terminal">
+    <geometry x="642" y="24" width="722" height="434"/>
+    <minimized/>
+    <workspace index="0"/>
+  </window>
+  <window id="10decfeafec5a3ab69139741250893994200000016670035" title="Hello_world (~/pyparser) - gedit" class="Gedit" name="gedit" role="gedit-window-1397412509-762736-0-jyoti-Inspiron-N5010" command="gedit">
+    <geometry x="714" y="239" width="650" height="500"/>
+    <minimized/>
+    <workspace index="0"/>
+  </window>
+  <window id="10decfeafec5a3ab69139741250893994200000016670035" title="" class="Gedit" name="gedit" command="gedit">
+    <geometry x="750" y="453" width="579" height="127"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

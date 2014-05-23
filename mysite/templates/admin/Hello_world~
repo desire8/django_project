@@ -1,0 +1,9 @@
+# Hello_world.py
+from pyparsing import Word, alphas
+# grammar definition
+greet=Word(alphas) + ","+ Word(alphas) + "!"
+# input string
+hello="Hello, Word!"
+# parsing the given string
+print (hello,"=",greet.parseString(hello))
+

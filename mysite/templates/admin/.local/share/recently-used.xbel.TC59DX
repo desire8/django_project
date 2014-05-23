@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///media/jyoti/NISHA/University%20Management%20System.pdf" added="2014-04-12T10:15:45Z" modified="2014-04-12T10:15:46Z" visited="2014-04-12T10:15:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;evince %U&apos;" modified="2014-04-12T10:15:45Z" count="1"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2014-04-12T10:15:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jyoti/Desktop/getting_started_with_pyparsing.pdf" added="2014-04-12T10:55:14Z" modified="2014-04-13T09:00:56Z" visited="2014-04-12T10:55:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2014-04-13T09:00:56Z" count="5"/>
+          <bookmark:application name="nautilus" exec="&apos;evince %U&apos;" modified="2014-04-13T09:00:55Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jyoti/Downloads/pyparsing-2.0.1.zip" added="2014-04-12T11:25:31Z" modified="2014-04-12T11:39:23Z" visited="2014-04-12T11:25:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2014-04-12T11:25:31Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;file-roller %U&apos;" modified="2014-04-12T11:39:21Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2014-04-12T11:39:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jyoti/Downloads" added="2014-04-12T11:39:40Z" modified="2014-04-12T11:39:40Z" visited="2014-04-12T11:39:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2014-04-12T11:39:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/02%20Sajde%20-%20www.Songs.PK.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:36:50Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:36:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/02%20Sauda%20Hai%20Dil%20Ka%20Ye%20-%20www.Songs.PK.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:36:50Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:36:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/02%20Surili%20Akhiyon%20Wale%20-%20www.Songs.PK.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:36:50Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:36:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/02%20Te%20Amo%20(Duet)%20-%20www.Songs.PK.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:36:50Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:36:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/02%20Tere%20Bin.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:36:50Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:36:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/02%20Track02.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:36:50Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:36:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/02%20Tu%20Meri%20Dost%20Hai.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:36:50Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:36:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/02%20Tum%20Jo%20Aaye%20-%20www.Songs.PK.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:36:50Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:36:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/02%20Ye%20Doorian%20-%20www.Songs.PK.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:36:50Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:36:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/03%20Aaja%20Soniye%20(Club)%20-%20www.Songs.PK.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:36:50Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:36:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/03%20Aapki%20Kashish%20-%20www.Songs.PK.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:36:50Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:36:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/03%20Aas%20Paas%20Khuda%20-%20www.Songs.PK.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:36:50Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:36:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/03%20Aye%20Khuda%20-%20www.Songs.PK.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:36:50Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:36:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/03%20Gale%20Lag%20Ja%20-%20www.Songs.PK.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:36:50Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:36:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/03%20I%20Am%20In%20Love%20-%20www.Songs.PK.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:36:50Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:36:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/03%20I%20hate%20Luv%20Storys%20-%20www.Songs.PK.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:36:50Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:36:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/03%20Jaane%20Ye%20Kya%20Hua%20-%20www.Songs.PK.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:36:50Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:36:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/03%20Kya%20-%20www.Songs.PK.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:36:50Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:36:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/03%20Piya%20-%20www.Songs.PK.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:36:50Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:36:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/03%20Rama%20Re.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:36:50Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:36:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/03%20Salaam%20Aaya%20-%20www.Songs.PK.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:36:50Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:36:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/03%20Tu%20Hi%20Haqeeqat%20-%20www.Songs.PK.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:36:50Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:36:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/04%20Bol%20Na%20Halke%20Halke.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:36:50Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:36:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/04%20Is%20This%20Love%20(Kahin%20Na%20Laage).mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:36:50Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:36:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/04%20Pehla%20Nasha.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:22:38Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:22:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/04%20Phir%20Mohabbat%20-%20www.Songs.PK.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:22:38Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:22:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/04%20Ranjha%20Ranjha%20-%20www.Songs.PK.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:22:38Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:22:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/04%20Right%20Here%20Right%20Now.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:22:38Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:22:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/04%20Sau%20Baar%20-%20www.Songs.PK.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:22:38Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:22:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/04%20Tera%20Hone%20Laga%20Hoon%20-%20www.Songs.PK.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:22:38Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:22:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/04%20Tumse%20Hi%20Tumse%20-%20www.Songs.PK.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:22:38Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:22:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/05%20Jaane%20Kya.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:22:38Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:22:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/05%20Kurbaan%20Hua%20-%20www.Songs.PK.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:22:38Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:22:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/05%20Kyun.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:22:38Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:22:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/05%20Mitwa%20Revisted%5BAlldesimp3.Net%5D.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:22:38Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:22:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/05%20Tujhe%20Bhula%20Diya%20-%20www.Songs.PK.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:22:38Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:22:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/06%20Bin%20Tere%20(Reprise)%20-%20www.Songs.PK.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:22:38Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:22:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/06%20Jashn-e-Baharaa.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:22:38Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:22:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/06%20Kahin%20To%20Hogi%20Ho%20-%20www.Songs.PK.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:22:38Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:22:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/06%20O%20Meri%20Jaan%20-%20www.Songs.PK.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:22:38Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:22:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/06%20Pehli%20Baar%20Mohabbat%20-%20www.Songs.PK.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:22:38Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:22:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/07%20Anjaana%20Anjaani%20-%20www.Songs.PK.mp3" added="2014-04-13T03:22:38Z" modified="2014-04-13T03:22:38Z" visited="2014-04-13T03:22:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:22:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/01%20Pee%20Loon%20-%20www.Songs.PK.mp3" added="2014-04-13T03:36:50Z" modified="2014-04-13T05:30:22Z" visited="2014-04-13T03:36:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T05:30:22Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/01%20Subah%20Subah.mp3" added="2014-04-13T03:36:50Z" modified="2014-04-13T05:30:22Z" visited="2014-04-13T03:36:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T05:30:22Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/01%20Zara%20Sa%20-%20K.K.mp3" added="2014-04-13T03:36:50Z" modified="2014-04-13T05:30:22Z" visited="2014-04-13T03:36:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T05:30:22Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/01%20Zindagi%20Do%20Pal%20Ki%20-%20www.Songs.PK.mp3" added="2014-04-13T03:36:50Z" modified="2014-04-13T05:30:22Z" visited="2014-04-13T03:36:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T05:30:22Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/02%20Bekaraan%20-%20www.Songs.PK.mp3" added="2014-04-13T03:36:50Z" modified="2014-04-13T05:30:22Z" visited="2014-04-13T03:36:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T05:30:22Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/02%20Bheegey%20Hont.mp3" added="2014-04-13T03:36:50Z" modified="2014-04-13T05:30:22Z" visited="2014-04-13T03:36:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T05:30:22Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/02%20Dil%20Ibadat%20-%20www.Songs.PK.mp3" added="2014-04-13T03:36:50Z" modified="2014-04-13T05:30:22Z" visited="2014-04-13T03:36:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T05:30:22Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/02%20Dil%20Kyun%20Yeh%20Mera%20-%20www.Songs.PK.mp3" added="2014-04-13T03:36:50Z" modified="2014-04-13T03:36:50Z" visited="2014-04-13T03:36:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:36:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/02%20Hairat%20-%20www.Songs.PK.mp3" added="2014-04-13T03:36:50Z" modified="2014-04-13T03:36:50Z" visited="2014-04-13T03:36:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:36:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/02%20Hey%20Shona%20(Songs.PK).mp3" added="2014-04-13T03:36:50Z" modified="2014-04-13T03:36:50Z" visited="2014-04-13T03:36:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:36:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/02%20Jashn-E-Bahaara.mp3" added="2014-04-13T03:36:50Z" modified="2014-04-13T03:36:50Z" visited="2014-04-13T03:36:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:36:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/02%20Maahi%20Ve.mp3" added="2014-04-13T03:36:50Z" modified="2014-04-13T03:36:50Z" visited="2014-04-13T03:36:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:36:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/02%20Mere%20Bina%20-%20www.Songs.PK.mp3" added="2014-04-13T03:36:50Z" modified="2014-04-13T03:36:50Z" visited="2014-04-13T03:36:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T03:36:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/01%2001.%20Ehsaan.mp3" added="2014-04-13T05:30:22Z" modified="2014-04-13T05:30:22Z" visited="2014-04-13T05:30:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T05:30:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/01%20Aye%20Khuda%20-%20www.Songs.PK.mp3" added="2014-04-13T05:30:22Z" modified="2014-04-13T05:30:22Z" visited="2014-04-13T05:30:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T05:30:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/01%20Ek%20Ladki%20Ko%20dekha.mp3" added="2014-04-13T05:30:22Z" modified="2014-04-13T05:30:22Z" visited="2014-04-13T05:30:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T05:30:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/01%20Ek%20Pal%20Ke%20Liye%20(part%201).mp3" added="2014-04-13T05:30:22Z" modified="2014-04-13T05:30:22Z" visited="2014-04-13T05:30:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T05:30:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/01%20Hale%20Dil%20-%20www.Songs.PK.mp3" added="2014-04-13T05:30:22Z" modified="2014-04-13T05:30:22Z" visited="2014-04-13T05:30:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T05:30:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/01%20Kabhi%20Alvida%20Na%20Kehna%5BAlldesimp3.Net%5D.mp3" added="2014-04-13T05:30:22Z" modified="2014-04-13T05:30:22Z" visited="2014-04-13T05:30:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T05:30:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/01%20Khuda%20Jaane%20-%20www.Songs.PK.mp3" added="2014-04-13T05:30:22Z" modified="2014-04-13T05:30:22Z" visited="2014-04-13T05:30:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T05:30:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/jyoti/58F6C0CCF6C0AB96/New%20Volume/songs/Few%20best%20hindi%20songs-%20my%20collection/01%20Mera%20Jeena%20Hai%20Kya%20-%20www.Songs.PK.mp3" added="2014-04-13T05:30:22Z" modified="2014-04-13T05:30:22Z" visited="2014-04-13T05:30:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/vlc %U&apos;" modified="2014-04-13T05:30:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jyoti/Desktop/pycalc.py" added="2014-04-13T06:50:08Z" modified="2014-04-13T08:58:53Z" visited="2014-04-13T06:50:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2014-04-13T06:50:09Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2014-04-13T08:58:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jyoti/Desktop/pyparsing%20-%20Tips%20for%20parsing%20block%20with%20conditional%20ending%3F.html" added="2014-04-13T06:50:27Z" modified="2014-04-13T08:58:00Z" visited="2014-04-13T06:50:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2014-04-13T06:50:29Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2014-04-13T08:58:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jyoti/Downloads/mark%20list_part4(2).xlsx" added="2014-04-13T09:14:48Z" modified="2014-04-13T09:15:00Z" visited="2014-04-13T09:14:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;libreoffice --calc %U&apos;" modified="2014-04-13T09:14:48Z" count="1"/>
+          <bookmark:application name="LibreOffice 4.0" exec="&apos;soffice %u&apos;" modified="2014-04-13T09:15:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jyoti/python3" added="2014-04-13T10:29:32Z" modified="2014-04-13T10:49:40Z" visited="2014-04-13T10:29:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2014-04-13T10:49:40Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jyoti/par.py" added="2014-04-13T10:51:35Z" modified="2014-04-13T11:04:43Z" visited="2014-04-13T10:51:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2014-04-13T11:04:43Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

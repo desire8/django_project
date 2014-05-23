@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<compiz_session id="104a190554b0ba3265140067388031246200000020210029">
+  <window id="104a190554b0ba3265140067524149941500000020210033" title="jyoti@jyoti-Inspiron-N5010: ~/Downloads" class="Gnome-terminal" name="gnome-terminal" role="gnome-terminal-window-3111-1875333302-1400675241" command="gnome-terminal">
+    <geometry x="66" y="24" width="728" height="466"/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+  <window id="104a190554b0ba3265140067814819129300000020210034" title="median_heap.cpp (~/Downloads) - gedit" class="Gedit" name="gedit" role="gedit-window-1400678149-212304-0-jyoti-Inspiron-N5010" command="gedit">
+    <geometry x="792" y="115" width="572" height="624"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

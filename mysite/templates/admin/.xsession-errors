@@ -1,0 +1,171 @@
+Script for cjkv started at run_im.
+Script for default started at run_im.
+Script for cjkv started at run_im.
+Script for default started at run_im.
+
+** (gnome-session:2019): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-vOUS4kBPUT: Connection refused
+
+** (gnome-settings-daemon:2084): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-vOUS4kBPUT: Connection refused
+compiz (core) - Info: Loading plugin: core
+compiz (core) - Info: Starting plugin: core
+compiz (core) - Info: Loading plugin: ccp
+compiz (core) - Info: Starting plugin: ccp
+compiz (core) - Info: Loading plugin: composite
+compiz (core) - Info: Starting plugin: composite
+
+** (gnome-fallback-mount-helper:2137): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-vOUS4kBPUT: Connection refused
+
+** (nm-applet:2135): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-vOUS4kBPUT: Connection refused
+compiz (core) - Info: Loading plugin: opengl
+
+** (polkit-gnome-authentication-agent-1:2138): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-vOUS4kBPUT: Connection refused
+** Message: applet now removed from the notification area
+** Message: using fallback from indicator to GtkStatusIcon
+compiz (core) - Info: Unity is fully supported by your hardware.
+compiz (core) - Info: Unity is fully supported by your hardware.
+compiz (core) - Info: Starting plugin: opengl
+
+** (nautilus:2136): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-vOUS4kBPUT: Connection refused
+compiz (core) - Info: Loading plugin: compiztoolbox
+compiz (core) - Info: Starting plugin: compiztoolbox
+compiz (core) - Info: Loading plugin: copytex
+compiz (core) - Info: Starting plugin: copytex
+compiz (core) - Info: Loading plugin: decor
+compiz (core) - Info: Starting plugin: decor
+compiz (core) - Info: Loading plugin: place
+compiz (core) - Info: Starting plugin: place
+compiz (core) - Info: Loading plugin: grid
+compiz (core) - Info: Starting plugin: grid
+compiz (core) - Info: Loading plugin: regex
+compiz (core) - Info: Starting plugin: regex
+compiz (core) - Info: Loading plugin: session
+compiz (core) - Info: Starting plugin: session
+I/O warning : failed to load external entity "/home/jyoti/.compiz/session/10f81bff1fb3241270140072539849481500000020190029"
+compiz (core) - Info: Loading plugin: vpswitch
+compiz (core) - Info: Starting plugin: vpswitch
+compiz (core) - Info: Loading plugin: imgpng
+compiz (core) - Info: Starting plugin: imgpng
+compiz (core) - Info: Loading plugin: move
+compiz (core) - Info: Starting plugin: move
+compiz (core) - Info: Loading plugin: snap
+compiz (core) - Info: Starting plugin: snap
+compiz (core) - Info: Loading plugin: unitymtgrabhandles
+compiz (core) - Info: Starting plugin: unitymtgrabhandles
+compiz (core) - Info: Loading plugin: gnomecompat
+compiz (core) - Info: Starting plugin: gnomecompat
+compiz (core) - Info: Loading plugin: mousepoll
+compiz (core) - Info: Starting plugin: mousepoll
+compiz (core) - Info: Loading plugin: resize
+compiz (core) - Info: Starting plugin: resize
+compiz (core) - Info: Loading plugin: animation
+compiz (core) - Info: Starting plugin: animation
+compiz (core) - Info: Loading plugin: expo
+compiz (core) - Info: Starting plugin: expo
+compiz (core) - Info: Loading plugin: workarounds
+compiz (core) - Info: Starting plugin: workarounds
+compiz (core) - Info: Loading plugin: wall
+compiz (core) - Info: Starting plugin: wall
+compiz (core) - Info: Loading plugin: fade
+compiz (core) - Info: Starting plugin: fade
+compiz (core) - Info: Loading plugin: ezoom
+compiz (core) - Info: Starting plugin: ezoom
+compiz (core) - Info: Loading plugin: scale
+compiz (core) - Info: Starting plugin: scale
+compiz (core) - Info: Loading plugin: unityshell
+
+(nautilus:2136): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+
+(nautilus:2136): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+compiz (core) - Info: Starting plugin: unityshell
+
+** (compiz:2120): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-vOUS4kBPUT: Connection refused
+** Message: moving back from GtkStatusIcon to indicator
+
+** (nm-applet:2135): WARNING **: Could not find ShellVersion property on org.gnome.Shell after 5 tries
+
+** (gnome-user-share:2339): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-vOUS4kBPUT: Connection refused
+
+** (telepathy-indicator:2338): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-vOUS4kBPUT: Connection refused
+
+** (gnome-screensaver:2442): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-vOUS4kBPUT: Connection refused
+
+** (gnome-screensaver:2442): WARNING **: screensaver already running in this session
+
+** (update-notifier:2718): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-vOUS4kBPUT: Connection refused
+[2588:2588:0522/075433:ERROR:account_tracker.cc(253)] OnNetworkError 407
+[2588:2736:0522/075433:ERROR:download.cc(109)] PostClientToServerMessage() failed during GetUpdates
+[2588:2618:0522/075436:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -102
+[2588:2618:0522/075457:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -102
+[2588:2618:0522/075550:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -102
+[2588:2618:0522/075738:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -102
+
+** (gnome-terminal:3040): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-vOUS4kBPUT: Connection refused
+[2588:2618:0522/080125:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -102
+
+** (nautilus:3137): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-vOUS4kBPUT: Connection refused
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+
+** (gedit:3150): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-vOUS4kBPUT: Connection refused
+[2588:2618:0522/080840:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -21
+[2588:2618:0522/080901:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -106
+[2588:2618:0522/080947:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -106
+[2588:2618:0522/081130:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -106
+[2588:2736:0522/081149:ERROR:download.cc(109)] PostClientToServerMessage() failed during GetUpdates
+[2588:2618:0522/081500:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -106
+[2588:2618:0522/082253:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -102
+[2588:2618:0522/082319:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -102
+[2588:2618:0522/082408:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -102
+[2588:2618:0522/082556:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -102
+[2588:2618:0522/082618:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -102
+[2588:2618:0522/082710:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -102
+[2588:2618:0522/082847:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -102
+[2588:2618:0522/083215:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -102
+
+** (gedit:4123): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-vOUS4kBPUT: Connection refused
+[2588:2618:0522/083902:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -102
+[2588:2618:0522/084902:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -102
+[2588:2736:0522/085327:ERROR:download.cc(109)] PostClientToServerMessage() failed during GetUpdates
+[2588:2618:0522/095353:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -102
+[2588:2618:0522/095422:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -102
+[2588:2618:0522/095506:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -102
+[2588:2618:0522/095635:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -102
+[2588:2618:0522/095956:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -102
+[2588:2736:0522/100048:ERROR:download.cc(109)] PostClientToServerMessage() failed during GetUpdates
+[2588:2618:0522/100705:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -102
+[2588:2618:0522/100732:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -102
+[2588:2618:0522/100824:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -102
+
+** (gedit:5334): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-vOUS4kBPUT: Connection refused
+[2588:2618:0522/101013:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -102
+[2588:2618:0522/101038:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -102
+[2588:2618:0522/101132:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -102
+[2588:2618:0522/101255:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -102
+[WARNING:flash/platform/pepper/pep_module.cpp(63)] SANDBOXED
+[WARNING:flash/platform/pepper/pep_module.cpp(63)] SANDBOXED
+[2588:2618:0522/101648:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -102
+[WARNING:flash/platform/pepper/pep_module.cpp(63)] SANDBOXED
+[2588:2618:0522/102324:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -106
+[2588:2618:0522/102348:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -106
+[2588:2618:0522/102445:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -106
+[2588:2618:0522/102635:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -106
+[2588:2618:0522/102702:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -106
+[2588:2618:0522/102751:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -106
+[2588:2618:0522/102933:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -106
+[2588:2618:0522/102956:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -106
+[2588:2618:0522/103049:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -106
+[2588:2618:0522/103210:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -106
+[2588:2618:0522/103606:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -106
+[2588:2618:0522/103633:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -106
+[2588:2618:0522/103730:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -106
+[2588:2618:0522/103900:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -106
+[2588:2618:0522/104156:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -106
+[2588:2618:0522/111520:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -102
+[2588:2618:0522/111544:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -102
+[2588:2618:0522/111632:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -102
+[2588:2618:0522/111830:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -102
+[2588:2618:0522/112209:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -102
+[2588:2618:0522/112914:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -102
+[2588:2736:0522/112951:ERROR:download.cc(109)] PostClientToServerMessage() failed during GetUpdates
+[2588:2618:0522/113914:ERROR:connection_factory_impl.cc(235)] Failed to connect to MCS endpoint with error -102

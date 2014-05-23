@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<compiz_session id="1057f8be9135036d71140069081276881500000018640029">
+  <window id="1057f8be9135036d71140069578819317900000018640036" title="models.py (~/django_project/js_site/polls) - gedit" class="Gedit" name="gedit" role="gedit-window-1400695789-358464-0-jyoti-Inspiron-N5010" command="gedit">
+    <geometry x="842" y="24" width="522" height="624"/>
+    <workspace index="0"/>
+  </window>
+  <window id="1057f8be9135036d71140069105644807700000018640033" title="jyoti@jyoti-Inspiron-N5010: ~/django_project/js_site" class="Gnome-terminal" name="gnome-terminal" role="gnome-terminal-window-2569-999318538-1400691056" command="gnome-terminal">
+    <geometry x="65" y="24" width="728" height="394"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

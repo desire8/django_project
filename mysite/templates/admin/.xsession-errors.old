@@ -1,0 +1,439 @@
+Script for cjkv started at run_im.
+Script for default started at run_im.
+Script for cjkv started at run_im.
+Script for default started at run_im.
+compiz (core) - Info: Loading plugin: core
+compiz (core) - Info: Starting plugin: core
+compiz (core) - Info: Loading plugin: ccp
+compiz (core) - Info: Starting plugin: ccp
+compiz (core) - Info: Loading plugin: composite
+compiz (core) - Info: Starting plugin: composite
+compiz (core) - Info: Loading plugin: opengl
+** Message: applet now removed from the notification area
+** Message: using fallback from indicator to GtkStatusIcon
+compiz (core) - Info: Unity is fully supported by your hardware.
+compiz (core) - Info: Unity is fully supported by your hardware.
+compiz (core) - Info: Starting plugin: opengl
+compiz (core) - Info: Loading plugin: compiztoolbox
+compiz (core) - Info: Starting plugin: compiztoolbox
+compiz (core) - Info: Loading plugin: copytex
+compiz (core) - Info: Starting plugin: copytex
+compiz (core) - Info: Loading plugin: decor
+compiz (core) - Info: Starting plugin: decor
+compiz (core) - Info: Loading plugin: place
+compiz (core) - Info: Starting plugin: place
+compiz (core) - Info: Loading plugin: grid
+compiz (core) - Info: Starting plugin: grid
+compiz (core) - Info: Loading plugin: regex
+compiz (core) - Info: Starting plugin: regex
+compiz (core) - Info: Loading plugin: session
+compiz (core) - Info: Starting plugin: session
+I/O warning : failed to load external entity "/home/jyoti/.compiz/session/1077d44e12f3f881e1140060300030989400000020270029"
+compiz (core) - Info: Loading plugin: vpswitch
+compiz (core) - Info: Starting plugin: vpswitch
+compiz (core) - Info: Loading plugin: imgpng
+compiz (core) - Info: Starting plugin: imgpng
+compiz (core) - Info: Loading plugin: move
+compiz (core) - Info: Starting plugin: move
+compiz (core) - Info: Loading plugin: snap
+compiz (core) - Info: Starting plugin: snap
+compiz (core) - Info: Loading plugin: unitymtgrabhandles
+compiz (core) - Info: Starting plugin: unitymtgrabhandles
+compiz (core) - Info: Loading plugin: gnomecompat
+compiz (core) - Info: Starting plugin: gnomecompat
+compiz (core) - Info: Loading plugin: mousepoll
+compiz (core) - Info: Starting plugin: mousepoll
+compiz (core) - Info: Loading plugin: resize
+compiz (core) - Info: Starting plugin: resize
+compiz (core) - Info: Loading plugin: animation
+compiz (core) - Info: Starting plugin: animation
+compiz (core) - Info: Loading plugin: expo
+compiz (core) - Info: Starting plugin: expo
+compiz (core) - Info: Loading plugin: workarounds
+compiz (core) - Info: Starting plugin: workarounds
+compiz (core) - Info: Loading plugin: wall
+compiz (core) - Info: Starting plugin: wall
+compiz (core) - Info: Loading plugin: fade
+compiz (core) - Info: Starting plugin: fade
+compiz (core) - Info: Loading plugin: ezoom
+compiz (core) - Info: Starting plugin: ezoom
+compiz (core) - Info: Loading plugin: scale
+compiz (core) - Info: Starting plugin: scale
+compiz (core) - Info: Loading plugin: unityshell
+
+(nautilus:2152): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+
+(nautilus:2152): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+compiz (core) - Info: Starting plugin: unityshell
+** Message: moving back from GtkStatusIcon to indicator
+
+** (nm-applet:2151): WARNING **: Could not find ShellVersion property on org.gnome.Shell after 5 tries
+
+** (zeitgeist-datahub:2455): WARNING **: zeitgeist-datahub.vala:231: Unable to get name "org.gnome.zeitgeist.datahub" on the bus!
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+[WARNING:flash/platform/pepper/pep_module.cpp(63)] SANDBOXED
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gedit:3321): Gtk-WARNING **: Ignoring visual set on widget `gtk-tooltip' that is not on the correct screen.
+[WARNING:flash/platform/pepper/pep_module.cpp(63)] SANDBOXED
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+[WARNING:flash/platform/pepper/pep_module.cpp(63)] SANDBOXED
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+[WARNING:flash/platform/pepper/pep_module.cpp(63)] SANDBOXED
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+[WARNING:flash/platform/pepper/pep_module.cpp(63)] SANDBOXED
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+
+(nautilus:2152): Gtk-WARNING **: Attempting to read the recently used resources file at `/home/jyoti/.local/share/recently-used.xbel', but the parser failed: Failed to open file '/home/jyoti/.local/share/recently-used.xbel': Permission denied.
+
+(gedit:3321): Gtk-WARNING **: Attempting to read the recently used resources file at `/home/jyoti/.local/share/recently-used.xbel', but the parser failed: Failed to open file '/home/jyoti/.local/share/recently-used.xbel': Permission denied.
+
+(gedit:3321): Gtk-WARNING **: Attempting to read the recently used resources file at `/home/jyoti/.local/share/recently-used.xbel', but the parser failed: Failed to open file '/home/jyoti/.local/share/recently-used.xbel': Permission denied.
+
+(nautilus:2152): Gtk-WARNING **: Attempting to read the recently used resources file at `/home/jyoti/.local/share/recently-used.xbel', but the parser failed: Failed to open file '/home/jyoti/.local/share/recently-used.xbel': Permission denied.
+
+(nautilus:2152): Gtk-WARNING **: Attempting to read the recently used resources file at `/home/jyoti/.local/share/recently-used.xbel', but the parser failed: Failed to open file '/home/jyoti/.local/share/recently-used.xbel': Permission denied.
+
+(gedit:3321): Gtk-WARNING **: Attempting to read the recently used resources file at `/home/jyoti/.local/share/recently-used.xbel', but the parser failed: Failed to open file '/home/jyoti/.local/share/recently-used.xbel': Permission denied.
+
+(nautilus:2152): Gtk-WARNING **: Attempting to read the recently used resources file at `/home/jyoti/.local/share/recently-used.xbel', but the parser failed: Failed to open file '/home/jyoti/.local/share/recently-used.xbel': Permission denied.
+
+(gedit:3321): Gtk-WARNING **: Attempting to read the recently used resources file at `/home/jyoti/.local/share/recently-used.xbel', but the parser failed: Failed to open file '/home/jyoti/.local/share/recently-used.xbel': Permission denied.
+[WARNING:flash/platform/pepper/pep_module.cpp(63)] SANDBOXED
+
+(gnome-screenshot:8749): Gtk-WARNING **: Attempting to read the recently used resources file at `/home/jyoti/.local/share/recently-used.xbel', but the parser failed: Failed to open file '/home/jyoti/.local/share/recently-used.xbel': Permission denied.
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-settings-daemon:2100): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2100): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+[2484:2484:0521/125556:ERROR:CONSOLE(0)] "Application Cache Error event: Manifest fetch failed (6) https://www.google.co.in/_/chrome/newtab/manifest?espv=2&ie=UTF-8", source: https://www.google.co.in/_/chrome/newtab?espv=2&ie=UTF-8 (0)
+[2484:2484:0521/125556:ERROR:CONSOLE(0)] "Application Cache Error event: Manifest fetch failed (6) https://www.google.co.in/_/chrome/newtab/manifest?espv=2&ie=UTF-8", source: https://www.google.co.in/_/chrome/newtab?espv=2&ie=UTF-8 (0)
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+[2484:2484:0521/132844:ERROR:CONSOLE(0)] "Application Cache Error event: Manifest fetch failed (6) https://www.google.co.in/_/chrome/newtab/manifest?espv=2&ie=UTF-8", source: https://www.google.co.in/_/chrome/newtab?espv=2&ie=UTF-8 (0)
+[2484:2484:0521/132844:ERROR:CONSOLE(0)] "Application Cache Error event: Manifest fetch failed (6) https://www.google.co.in/_/chrome/newtab/manifest?espv=2&ie=UTF-8", source: https://www.google.co.in/_/chrome/newtab?espv=2&ie=UTF-8 (0)
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+
+(gnome-screensaver:2456): Gtk-CRITICAL **: gtk_widget_set_visible: assertion `GTK_IS_WIDGET (widget)' failed
+compiz (decor) - Warn: No default decoration found, placement will not be correct
+gnome-session[2027]: WARNING: Client '/org/gnome/SessionManager/Client11' failed to reply before timeout
+
+(gnome-settings-daemon:2100): Gdk-WARNING **: gnome-settings-daemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+** Message: PID 2151 (we are 2151) sent signal 15, shutting down...
+
+(nm-applet:2151): libappindicator-WARNING **: Unable to send signal for NewStatus: The connection is closed
+
+(gedit:3321): GVFS-RemoteVolumeMonitor-WARNING **: Owner of volume monitor org.gtk.Private.UDisks2VolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(deja-dup-monitor:2777): GVFS-RemoteVolumeMonitor-WARNING **: Owner of volume monitor org.gtk.Private.UDisks2VolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(update-notifier:2655): GVFS-RemoteVolumeMonitor-WARNING **: Owner of volume monitor org.gtk.Private.UDisks2VolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(nautilus:2152): GVFS-RemoteVolumeMonitor-WARNING **: Owner of volume monitor org.gtk.Private.UDisks2VolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(deja-dup-monitor:2777): GVFS-RemoteVolumeMonitor-WARNING **: Owner of volume monitor org.gtk.Private.MTPVolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(gedit:3321): GVFS-RemoteVolumeMonitor-WARNING **: Owner of volume monitor org.gtk.Private.MTPVolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(update-notifier:2655): GVFS-RemoteVolumeMonitor-WARNING **: Owner of volume monitor org.gtk.Private.MTPVolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(nautilus:2152): GVFS-RemoteVolumeMonitor-WARNING **: Owner of volume monitor org.gtk.Private.MTPVolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(update-notifier:2655): GVFS-RemoteVolumeMonitor-WARNING **: Owner of volume monitor org.gtk.Private.AfcVolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(deja-dup-monitor:2777): GVFS-RemoteVolumeMonitor-WARNING **: Owner of volume monitor org.gtk.Private.AfcVolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(gedit:3321): GVFS-RemoteVolumeMonitor-WARNING **: Owner of volume monitor org.gtk.Private.AfcVolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(gedit:3321): GVFS-RemoteVolumeMonitor-WARNING **: Owner of volume monitor org.gtk.Private.GPhoto2VolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(deja-dup-monitor:2777): GVFS-RemoteVolumeMonitor-WARNING **: Owner of volume monitor org.gtk.Private.GPhoto2VolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(update-notifier:2655): GVFS-RemoteVolumeMonitor-WARNING **: Owner of volume monitor org.gtk.Private.GPhoto2VolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+[2484:2484:0521/222905:ERROR:chrome_browser_main_extra_parts_x11.cc(57)] X IO error received (X server probably went away)
+gtk-window-decorator: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+
+(telepathy-indicator:2439): Gdk-WARNING **: telepathy-indicator: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(update-notifier:2655): Gdk-WARNING **: update-notifier: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(gnome-screensaver:2456): Gdk-WARNING **: gnome-screensaver: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(gnome-terminal:8629): Gdk-WARNING **: gnome-terminal: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(gedit:3321): Gdk-WARNING **: gedit: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+
+
+(nautilus:2152): Gdk-WARNING **: nautilus: Fatal IO error 0 (Success) on X server :0.
+
+Terminated

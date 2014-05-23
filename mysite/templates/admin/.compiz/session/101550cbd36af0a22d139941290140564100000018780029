@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<compiz_session id="101550cbd36af0a22d139941290140564100000018780029">
+  <window id="101550cbd36af0a22d139941292268197700000018780033" title="jyoti@jyoti-Inspiron-N5010: ~" class="Gnome-terminal" name="gnome-terminal" role="gnome-terminal-window-2222-1597514541-1399412922" command="gnome-terminal">
+    <geometry x="65" y="24" width="722" height="434"/>
+    <minimized/>
+    <workspace index="0"/>
+  </window>
+  <window id="101550cbd36af0a22d139941401273547500000018780035" title="welcome.php (/var/www/codeigniter/application/controllers) - gedit" class="Gedit" name="gedit" role="gedit-window-1399414012-889388-0-jyoti-Inspiron-N5010" command="gedit">
+    <geometry x="714" y="238" width="650" height="500"/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

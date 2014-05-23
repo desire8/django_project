@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<compiz_session id="108b67969c3675f7d9139940116922084800000018640029">
+  <window id="108b67969c3675f7d9139940132375371400000018640033" title="jyoti@jyoti-Inspiron-N5010: ~" class="Gnome-terminal" name="gnome-terminal" role="gnome-terminal-window-2573-2018438168-1399401323" command="gnome-terminal">
+    <geometry x="65" y="24" width="722" height="434"/>
+    <minimized/>
+    <workspace index="0"/>
+  </window>
+  <window id="108b67969c3675f7d9139940192742669300000018640034" title="jyoti@jyoti-Inspiron-N5010: ~" class="Gnome-terminal" name="gnome-terminal" role="gnome-terminal-window-3412-73407789-1399401927" command="gnome-terminal">
+    <geometry x="642" y="305" width="722" height="434"/>
+    <minimized/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

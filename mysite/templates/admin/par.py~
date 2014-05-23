@@ -1,0 +1,9 @@
+import urllib.request
+from pyparsing import *
+anchorStart,anchorEnd = makeHTMLTags("a")
+serverListPage = urllib.request.urlopen("http://10fastfingers.com/")
+htmlText = serverListPage.read()
+serverList.close()
+anchor = anchorStart + SkipTo(anchorEnd).setResultName("body") + anchorEnd
+for tokens,start,end in anchor.scanString(htmlText):
+	print (tokens.body,'->',tokens,href)

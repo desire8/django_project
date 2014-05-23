@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<compiz_session id="1077d44e12f3f881e1140060300030989400000020270029">
+  <window id="1077d44e12f3f881e1140060454673651500000020270037" title="admin.py (~/django_project/js_site/polls) - gedit" class="Gedit" name="gedit" role="gedit-window-1400611790-60593-1-jyoti-Inspiron-N5010" command="gedit">
+    <geometry x="420" y="115" width="489" height="624"/>
+    <minimized/>
+    <workspace index="0"/>
+  </window>
+  <window id="1077d44e12f3f881e1140065163198243700000020270047" title="jyoti@jyoti-Inspiron-N5010: ~/django_project/mysite" class="Gnome-terminal" name="gnome-terminal" role="gnome-terminal-window-8629-1598781664-1400651632" command="gnome-terminal">
+    <geometry x="636" y="24" width="728" height="466"/>
+    <workspace index="0"/>
+  </window>
+  <window id="1077d44e12f3f881e1140060454673651500000020270037" title="admin.py (~/django_project/mysite/polls) - gedit" class="Gedit" name="gedit" role="gedit-window-1400604546-892445-0-jyoti-Inspiron-N5010" command="gedit">
+    <geometry x="847" y="24" width="517" height="624"/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+  <window id="1077d44e12f3f881e1140060454673651500000020270037" title="" class="Gedit" name="gedit" command="gedit">
+    <geometry x="395" y="287" width="640" height="218"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

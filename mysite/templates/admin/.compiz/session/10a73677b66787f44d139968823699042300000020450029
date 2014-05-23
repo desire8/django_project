@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<compiz_session id="10a73677b66787f44d139968823699042300000020450029">
+  <window id="10a73677b66787f44d139969001263342400000020450035" title="php.ppt - LibreOffice Impress" class="libreoffice-impress" name="VCLSalFrame.DocumentWindow" command="soffice">
+    <geometry x="158" y="69" width="1050" height="630"/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+  <window id="10a73677b66787f44d139968866129501400000020450034" title="jyoti@jyoti-Inspiron-N5010: /var/www/codeigniter/application/views" class="Gnome-terminal" name="gnome-terminal" role="gnome-terminal-window-2846-105879832-1399688661" command="gnome-terminal">
+    <geometry x="65" y="24" width="728" height="466"/>
+    <minimized/>
+    <workspace index="0"/>
+  </window>
+  <window id="10a73677b66787f44d139969038615675100000020450037" title="hello.php (/var/www/codeigniter/application/controllers) - gedit" class="Gedit" name="gedit" role="gedit-window-1399690386-791797-0-jyoti-Inspiron-N5010" command="gedit">
+    <geometry x="827" y="24" width="537" height="624"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

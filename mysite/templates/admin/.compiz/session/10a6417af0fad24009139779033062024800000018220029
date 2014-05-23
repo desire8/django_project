@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<compiz_session id="10a6417af0fad24009139779033062024800000018220029">
+  <window id="10a6417af0fad24009139779498627863500000018220036" title="basic.py (~/pyparser) - gedit" class="Gedit" name="gedit" role="gedit-window-1397794986-974432-0-jyoti-Inspiron-N5010" command="gedit">
+    <geometry x="871" y="24" width="493" height="268"/>
+    <minimized/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+  <window id="10a6417af0fad24009139779176916082700000018220033" title="jyoti@jyoti-Inspiron-N5010: ~/pyparser" class="Gnome-terminal" name="gnome-terminal" role="gnome-terminal-window-3305--520119742-1397791769" command="gnome-terminal">
+    <geometry x="65" y="24" width="728" height="466"/>
+    <minimized/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>
